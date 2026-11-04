@@ -1,0 +1,15 @@
+Opened log file "eae6320.log"
+Initialized time
+Registered main window class "Noah's EAE6320 Main Window Class"
+The user settings file "settings.ini" doesn't exist. Using default settings instead.
+Created main window "Flappy Squirrel -- OpenGL -- Debug"
+Set main window resolution to 960 x 1280
+Failed to load shader from file data/Shaders/Vertex/standard.shader: Windows failed to open the file "data/Shaders/Vertex/standard.shader" for reading: The system cannot find the path specified.
+Application initialization failed!
+Destroyed main window
+Unregistered main window class
+Closing log file
+Re-opened log file
+A Squirrel's Journey was successfully cleaned up
+Re-opened log file after it had been destroyed
+Closing log file
